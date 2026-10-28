@@ -1,4 +1,9 @@
-# [3] Spatial - Basic Choropleth
+# Median Household Income by State, 2018
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mentalplatypus/pen/rNjwWMv](https://codepen.io/mentalplatypus/pen/rNjwWMv).
+**Live:** https://mentalplatypus.github.io/Basic-Choropleth-Map-Median-Household-Income-2018/
 
+A choropleth map of the United States, with each state shaded by its 2018 median household income.
+
+Also on CodePen: https://codepen.io/mentalplatypus/pen/rNjwWMv
+
+Part of [David Wang's portfolio](https://mentalplatypus.github.io/).
